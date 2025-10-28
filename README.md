@@ -1,8 +1,6 @@
 # YIYAO YANG
 **Embark on A Journey Through My Storoes.**
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
-
 # I. Education
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
