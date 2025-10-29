@@ -25,6 +25,10 @@
 
 ##### Yang, Y., & Gulbahar, Y. (2026, April). Decoding AI Tutor Effects for Educational Measurement: Temporal, Multi-Outcome, and Behavioral-Cognitive Analysis. Proposal under review at the annual meeting of the National Council on Measurement in Education (NCME), Los Angeles, CA. 
 
+#### IV. Research Assistant
+
+##### Columbia University - Research Assistant | Trustworthy & Responsible AI (Jun 2025 - Present)
+###### Responsibility: Devoted to the project of Digital Divides in the Age of Generative AI (Programming Tool: Python & API) at AEQUITAS Lab by replicating key results from recent LLM-in-education studies, reproducing tasks with LLMs, and assessing model–human alignment using metrics such as Cohen’s Kappa, QWK, ACC, and F1. Documented replications into a structured research report, ensuring transparency, reproducibility, and critical reflection on the equity implications of generative AI in education.
 
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
