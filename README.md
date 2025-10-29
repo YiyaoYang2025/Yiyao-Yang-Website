@@ -19,11 +19,13 @@
 
 ##### Yang, Y., & Gulbahar, Y. (2025, October). Automatic grading of student work using simulated rubric-based data and GenAI models. Paper presented at Artificial Intelligence in Measurement and Education (AIME) Conference, National Council on Measurement in Education (NCME), Pittsburgh, PA. Conference Paper available at ACL Anthology: https://aclanthology.org/2025.aimecon-wip.5/. [[2025 AIME-Con Verification]](https://www.dropbox.com/scl/fi/hnpiy0zrhubfk74kwp5u6/NCME-AIME-Conference-Proof-of-Presenter-Status-YIYAO-YANG.pdf?rlkey=6zprf7l39iruph0k8o8xq0tud&e=1&st=oqjwuef3&dl=0). [[My Slides]](https://doi.org/10.5281/zenodo.17450180).
 
+##### Yang, Y. & Chiu, C.-Y . (2026, July). Abstract in preparation for submission to the annual International Meeting of the Psychometric Society (IMPS), Seoul, Republic of Korea.
+
 ##### Yang, Y., & Gulbahar, Y. (2026, April). Multimodal Fusion in Educational Measurement: Bridging Modalities for Advancing Student Engagement Assessment. Proposal under review at the annual meeting of the National Council on Measurement in Education (NCME), Los Angeles, CA. 
 
 ##### Yang, Y., & Gulbahar, Y. (2026, April). Decoding AI Tutor Effects for Educational Measurement: Temporal, Multi-Outcome, and Behavioral-Cognitive Analysis. Proposal under review at the annual meeting of the National Council on Measurement in Education (NCME), Los Angeles, CA. 
 
-##### Yang, Y. & Chiu, C.-Y . (2026, July). Abstract in preparation for submission to the annual International Meeting of the Psychometric Society (IMPS), Seoul, Republic of Korea.
+
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
