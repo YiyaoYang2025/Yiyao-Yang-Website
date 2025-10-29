@@ -5,6 +5,10 @@
 ##### Columbia University - Master of Science (MS) in Applied Statitics (Sep 2024 - Dec 2025)
 ##### University of Toronto - Honours Bachelor of Science (HBSc) in Mathematics Major, Statistics Minor, Economics Minor (Sep 2020 - Jun 2024)
 
+#### II. Journal Paper
+
+##### Yang, Y. (2025). Proposal under review for Psychometrika, Applications and Case Studies (ACS), Special Section on Leveraging AI to Empower Development and Application of Diagnostic Statistical Models.
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
