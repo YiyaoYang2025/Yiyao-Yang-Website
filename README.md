@@ -9,7 +9,7 @@
 
 ##### Yang, Y. (2025). Proposal under review for Psychometrika, Applications and Case Studies (ACS), Special Section on Leveraging AI to Empower Development and Application of Diagnostic Statistical Models.
 
-##### Yang, Y., & Gulbahar, Y. (2025). Multimodal fusion and interpretability in human activity recognition: A reproducible framework for sensor-based modeling. Manuscript under review at the International Journal of Data Science and Analytics. Preprint available at ArXiv: https://doi.org/10.48550/arXiv.2510.22410.
+##### Yang, Y., & Gulbahar, Y. (2025). Multimodal fusion and interpretability in human activity recognition: A reproducible framework for sensor-based modeling. Manuscript under review at the International Journal of Data Science and Analytics. Preprint available at arXiv: https://doi.org/10.48550/arXiv.2510.22410.
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
