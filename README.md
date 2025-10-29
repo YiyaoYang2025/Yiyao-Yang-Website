@@ -11,6 +11,10 @@
 
 ##### Yang, Y., & Gulbahar, Y. (2025). Multimodal fusion and interpretability in human activity recognition: A reproducible framework for sensor-based modeling. Manuscript under review at the International Journal of Data Science and Analytics. Preprint available at arXiv: https://doi.org/10.48550/arXiv.2510.22410.
 
+##### Huang, Z.*, Yang, Y.*, & Gulbahar, Y. (2025). Understanding the interconnected drivers of mathematics test performance: A longitudinal study. Manuscript under second-round review at Studies in Educational Evaluation. Preprint available at OSF: https://doi.org/10.35542/osf.io/da8tf_v5.
+
+##### Yang, Y., & Gulbahar, Y. (2025). Spatiotemporal modeling of water quality trends in a coastal wildlife refuge: A statistical approach to ecological risk and resource management. Manuscript under second-round review at Modeling Earth Systems and Environment. Preprint available at Research Square: https://doi.org/10.21203/rs.3.rs-6721691/v4.
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
