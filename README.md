@@ -2,6 +2,8 @@
 **Embark on A Journey Through My Storoes.**
 
 ### I. Education
+#### Columbia University - Master of Science (MS) in Applied Statitics (Sep 2024 - Dec 2025)
+#### University of Toronto - Honours Bachelor of Science (HBSc) in Mathematics Major, Statistics Minor, Economics Minor (Sep 2020 - Jun 2024)
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
