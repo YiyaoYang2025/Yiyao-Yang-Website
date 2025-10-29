@@ -15,6 +15,11 @@
 
 ##### Yang, Y., & Gulbahar, Y. (2025). Spatiotemporal modeling of water quality trends in a coastal wildlife refuge: A statistical approach to ecological risk and resource management. Manuscript under second-round review at Modeling Earth Systems and Environment. Preprint available at Research Square: https://doi.org/10.21203/rs.3.rs-6721691/v4.
 
+#### III. Conference Paper
+
+##### Yang, Y., & Gulbahar, Y. (2025, October). Automatic grading of student work using simulated rubric-based data and GenAI models. Paper presented at Artificial Intelligence in Measurement and Education (AIME) Conference, National Council on Measurement in Education (NCME), Pittsburgh, PA. Conference Paper available at ACL Anthology: https://aclanthology.org/2025.aimecon-wip.5/.
+[2025 NCME AIME-Con Verification] [My Slides] [2025 AIME Handbook (Page 6)].
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
