@@ -85,7 +85,7 @@
 
 #### IX. Test Score
 
-##### The GRE Test, Educational Testing Service (ETS), Total Score: 334 / 340 (Jul 2023) [GRE Test Report](https://www.dropbox.com/scl/fi/t3bbi6ol8r8ilcl9l9yy8/GRE-Report-YIYAO-YANG.pdf?rlkey=oia5xyj73ybfaiza3lsu1lrb9&st=5hkrhyre&dl=0)
+##### The GRE Test, Educational Testing Service (ETS), Total Score: 334 / 340 (Jul 2023) | [GRE Test Report](https://www.dropbox.com/scl/fi/t3bbi6ol8r8ilcl9l9yy8/GRE-Report-YIYAO-YANG.pdf?rlkey=oia5xyj73ybfaiza3lsu1lrb9&st=5hkrhyre&dl=0)
 
 #### X. Workshop Experience
 
