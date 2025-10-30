@@ -83,6 +83,23 @@
 
 ##### Six Sigma Black Belt (CSSBB) Certification, The Council for Six Sigma (CSSC) | [CSSBB Certification](https://www.dropbox.com/scl/fi/i84nhic3i0lr4g9x87wit/Six-Sigma-Black-Belt-CSSBB-Certification-of-YIYAO-YANG.pdf?rlkey=46gxsfosa8chvs72ihwmwlpvk&st=rseco2zk&dl=0)
 
+#### IX. Test Score
+
+##### The GRE Test, Educational Testing Service (ETS), Total Score: 334 / 340 (Jul 2023) [GRE Test Report](https://www.dropbox.com/scl/fi/t3bbi6ol8r8ilcl9l9yy8/GRE-Report-YIYAO-YANG.pdf?rlkey=oia5xyj73ybfaiza3lsu1lrb9&st=5hkrhyre&dl=0)
+
+#### X. Workshop Experience
+
+##### University of Toronto (Dec 2021 - Apr 2022)
+###### Enterpreneurship and Intellectual Property (IP) Workshop (Jan 2022 - Apr 2022)
+###### Public Speaking and Presentation Workshop (Sep 2021 - Dec 2021)
+###### Reading and eWriting Workshop (Sep 2021 - Dec 2021)
+
+#### XI. Skills, Language & Interest
+##### Techinical Skills: R, Python, SAS, SQL, SPSS, JMP, Tableau, STATA
+##### Professional Skills: Research, Public Presentation, Data Analytics, Business Analytics, Leadership, Strategic Collaboration, Critical Thinking, Interpersonal Skills, Communication
+##### Language: English, Chinese
+##### Interests: Research, Presentation, Photography, Animal Charities
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
