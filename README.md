@@ -83,7 +83,7 @@
 
 ##### Six Sigma Black Belt (CSSBB) Certification, The Council for Six Sigma (CSSC) | [CSSBB Certification](https://www.dropbox.com/scl/fi/i84nhic3i0lr4g9x87wit/Six-Sigma-Black-Belt-CSSBB-Certification-of-YIYAO-YANG.pdf?rlkey=46gxsfosa8chvs72ihwmwlpvk&st=rseco2zk&dl=0)
 
-#### VIII. Test Score 💻
+#### VIII. Test Score 🧚
 
 ##### The GRE Test, Educational Testing Service (ETS), Total Score: 334 / 340 (Jul 2023) | [GRE Test Report](https://www.dropbox.com/scl/fi/t3bbi6ol8r8ilcl9l9yy8/GRE-Report-YIYAO-YANG.pdf?rlkey=oia5xyj73ybfaiza3lsu1lrb9&st=5hkrhyre&dl=0)
 
