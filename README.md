@@ -35,7 +35,7 @@
 
 ##### Columbia University - Teaching Assistant | Core Methods in Educational Data Mining (Sep 2025 - Dec 2025) | [TA Verification (2025 Fall)](https://www.dropbox.com/scl/fi/i947y1wwfnslr1lvtlxrc/TC-Employment-Verification-Letter-of-YIYAO-YANG-HUDK-4050.pdf?rlkey=bratyq0ok8605gbyijbdyd0s1&st=460dh6cb&dl=0)
 
-##### Columbia University - Course Assistant | Probability and Statistical Inference (Jul 2025 - Aug 2025)
+##### Columbia University - Course Assistant | Probability and Statistical Inference (Jul 2025 - Aug 2025) | [CA Verification (2025 Summer)](https://www.dropbox.com/scl/fi/gm8bbuz1wh7geq4qev8f0/TC-Employment-Verification-Letter-of-YIYAO-YANG-Summer-B-HUDM-4120-HUDM-4122.pdf?rlkey=wp7xlqd3ami364t1c1ypnuhoj&st=27jbzcw6&dl=0)
 
 ##### Columbia University - Course Assistant | Basic Concepts in Statistics (Jul 2025 - Aug 2025)
 
