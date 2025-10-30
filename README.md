@@ -89,10 +89,9 @@
 
 #### X. Workshop Experience
 
-##### University of Toronto (Dec 2021 - Apr 2022)
-###### Enterpreneurship and Intellectual Property (IP) Workshop (Jan 2022 - Apr 2022)
-###### Public Speaking and Presentation Workshop (Sep 2021 - Dec 2021)
-###### Reading and eWriting Workshop (Sep 2021 - Dec 2021)
+##### University of Toronto | Enterpreneurship and Intellectual Property (IP) Workshop (Jan 2022 - Apr 2022)
+##### University of Toronto | Public Speaking and Presentation Workshop (Sep 2021 - Dec 2021)
+##### University of Toronto | Reading and eWriting Workshop (Sep 2021 - Dec 2021)
 
 #### XI. Skills, Language & Interest
 ##### Techinical Skills: R, Python, SAS, SQL, SPSS, JMP, Tableau, STATA
