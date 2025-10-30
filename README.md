@@ -39,7 +39,7 @@
 
 ##### Columbia University - Course Assistant | Basic Concepts in Statistics (Jul 2025 - Aug 2025) | [CA Verification (2025 Summer)](https://www.dropbox.com/scl/fi/gm8bbuz1wh7geq4qev8f0/TC-Employment-Verification-Letter-of-YIYAO-YANG-Summer-B-HUDM-4120-HUDM-4122.pdf?rlkey=wp7xlqd3ami364t1c1ypnuhoj&st=27jbzcw6&dl=0)
 
-##### Columbia University - Course Assistant | Applied Regression Analysis (Jan 2025 - Jul 2025)
+##### Columbia University - Course Assistant | Applied Regression Analysis (Jan 2025 - Jul 2025) | [CA Verification (2025 Spring)](https://www.dropbox.com/scl/fi/gjykx2syb4in96shts1ft/TC-Employment-Verification-Letter-of-YIYAO-YANG-Spring-HUDM-5122.pdf?rlkey=tpy8q2h0wqr21392em9qi6o3e&st=s2or7w3p&dl=0) [(2025 Summer A)](https://www.dropbox.com/scl/fi/c5hke41se6xipdrn3ax2v/TC-Employment-Verification-Letter-of-YIYAO-YANG-Summer-HUDM-5122.pdf?rlkey=d3eh42dpddthmkn286eik5kp0&st=c2e0pvvi&dl=0).
 
 ##### Columbia University - Instructional Assistant | Leadership Academy Program (Jun 2025)
 
