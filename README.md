@@ -31,7 +31,7 @@
 
 ##### University of Toronto - Student Researcher | Combinatorics, Topology, & Graph Theory (Sep 2023 - Apr 2024)
 
-#### V. Teaching Experience 👩‍🏫
+#### IV. Teaching Experience 👩‍🏫
 
 ##### Columbia University - Teaching Assistant | Core Methods in Educational Data Mining (Sep 2025 - Dec 2025) | [TA Verification (2025 Fall)](https://www.dropbox.com/scl/fi/i947y1wwfnslr1lvtlxrc/TC-Employment-Verification-Letter-of-YIYAO-YANG-HUDK-4050.pdf?rlkey=bratyq0ok8605gbyijbdyd0s1&st=460dh6cb&dl=0)
 
@@ -43,7 +43,7 @@
 
 ##### Columbia University - Instructional Assistant | Leadership Academy Program (Jun 2025) | [IA Verfiation (2025 Summer)](https://www.dropbox.com/scl/fi/54cpvt0oohxji35pu63l1/TC-Instructional-Assistant-Emloyment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=g58eoxjul6i01rqi9ra2lhffu&st=sqonoxgb&dl=0)
 
-#### VI. Internship Experience 💼
+#### V. Internship Experience 💼
 
 ##### China Interocean Transport Inc. | Pricing Analyst Inern | Operations and Pricing Department | Ongoing
 
@@ -57,7 +57,7 @@
 
 ##### Canadian Automobile Association | Insurance Officer Intern | Direct Insurance Solutions Service Department | [CAA Verification](https://www.dropbox.com/scl/fi/zan3yjfs5i7ykrpkuor0p/CAA-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=8u0g9fo8nwj8zb79qlom867ri&st=yyvyowao&dl=0) | [CAA Reference](https://www.dropbox.com/scl/fi/l81cexxpbu1g402agk23f/CAA-Reference-Letter-of-YIYAO-YANG.pdf?rlkey=7768bl10tw7zf53fz867kuqd8&st=yxepmgpg&dl=0)
 
-#### VII. Academic Service & Volunteer Experience 🍃
+#### VI. Academic Service & Volunteer Experience 🍃
 
 ##### ([Volunteer Experiences Verification](https://www.dropbox.com/scl/fo/zd8nwpm0lqvcdoyvsx5mx/ANemXgKmKMZzZy1pWVW0Etg?rlkey=uhq4qm7is7s6stw0nq5fffuob&st=p36ilp8u&dl=0))
 
@@ -77,23 +77,23 @@
 
 ##### Chinese Undergraduate Student Association (CUA) at the University of Toronto | Sponsorship Coordinator (Sep 2020 - Apr 2022)
 
-#### VIII. Certification 🎖️
+#### VII. Certification 🎖️
 
 ##### SAS Certified Specialist Certification: Base Programming Using SAS 9.4, SAS | [SAS Certification](https://www.dropbox.com/scl/fi/aqy8wtjnbhu3prfevnnhh/SAS-Certified-Specialist-Base-Programming-Using-SAS-9.4-Certificate-of-YIYAO-YANG.pdf?rlkey=j7m2bb5b4u67ytb9h86eh52bv&st=zv9olkfz&dl=0) | [SAS Verification](https://cp.certmetrics.com/SAS/en/public/verify/credential/b8d02b273eb44f52a86bdf65eca316b7) | [SAS Certified Badge](https://www.credly.com/badges/751e8daa-554a-4bd8-ae5e-34df83717d7a/linked_in_profile)
 
 ##### Six Sigma Black Belt (CSSBB) Certification, The Council for Six Sigma (CSSC) | [CSSBB Certification](https://www.dropbox.com/scl/fi/i84nhic3i0lr4g9x87wit/Six-Sigma-Black-Belt-CSSBB-Certification-of-YIYAO-YANG.pdf?rlkey=46gxsfosa8chvs72ihwmwlpvk&st=rseco2zk&dl=0)
 
-#### IX. Test Score
+#### VIII. Test Score
 
 ##### The GRE Test, Educational Testing Service (ETS), Total Score: 334 / 340 (Jul 2023) | [GRE Test Report](https://www.dropbox.com/scl/fi/t3bbi6ol8r8ilcl9l9yy8/GRE-Report-YIYAO-YANG.pdf?rlkey=oia5xyj73ybfaiza3lsu1lrb9&st=5hkrhyre&dl=0)
 
-#### X. Workshop Experience
+#### IX. Workshop Experience
 ##### ([Workshop Experiences Verification](https://www.dropbox.com/scl/fi/0baacjljbira3tmn3qjmn/UofT-Workshops-CCR-YIYAO-YANG.pdf?rlkey=jkia5r9thsrd4hwcebxihywf9&st=4dh07zxi&dl=0))
 ##### University of Toronto | Enterpreneurship and Intellectual Property (IP) Workshop (Jan 2022 - Apr 2022)
 ##### University of Toronto | Public Speaking and Presentation Workshop (Sep 2021 - Dec 2021)
 ##### University of Toronto | Reading and eWriting Workshop (Sep 2021 - Dec 2021)
 
-#### XI. Skills, Language & Interest
+#### X. Skills, Language & Interest
 ##### Techinical Skills: R, Python, SAS, SQL, SPSS, JMP, Tableau, STATA
 ##### Professional Skills: Research, Public Presentation, Data Analytics, Business Analytics, Leadership, Strategic Collaboration, Critical Thinking, Interpersonal Skill, Communication
 ##### Language: English, Chinese
