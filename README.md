@@ -47,11 +47,16 @@
 
 ##### China Interocean Transport Inc. | Pricing Analyst Inern | Operations and Pricing Department | Ongoing
 
-##### PwC (PricewaterhouseCoopers) | Financial Business Consultant Intern | [Advisory Department](https://www.dropbox.com/scl/fi/q2xzfgfyt1xmtgfnjcq62/PwC-Employment-Verification-Letter-of-YIIYAO-YANG.pdf?rlkey=mm56my7ycp9mcgp972o2q25ef&st=3axuokvv&dl=0)
+##### PwC (PricewaterhouseCoopers) | Financial Business Consultant Intern | Advisory Department | [PwC Verification](https://www.dropbox.com/scl/fi/q2xzfgfyt1xmtgfnjcq62/PwC-Employment-Verification-Letter-of-YIIYAO-YANG.pdf?rlkey=mm56my7ycp9mcgp972o2q25ef&st=3axuokvv&dl=0)
 
 ##### Medline Industries, LP | Supply Chain Analyst Intern | Inventory Management Department | [MEDLINE Verfication](https://www.dropbox.com/scl/fi/z8npnpmq2yhjzeub2ub2z/MEDLINE-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=nd4kmyqsy82kyfsvelnhqif70&st=vxhttx1s&dl=0)
 
-##### NXP Semiconductors | Quality Assurance Engieer Intern | 
+##### NXP Semiconductors | Quality Assurance Engieer Intern | New Product Introduction Department | [NXP Verification](https://www.dropbox.com/scl/fi/lg7tds5okpruw3qrc3oe2/NXP-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=p7kvztrgpb3it5gkg1sk0j4gx&st=xexbx78k&dl=0)
+
+##### Bank of China (Head Office) | Financial Data Analyst Intern | Global Markets Department | [BOC Verification](https://www.dropbox.com/scl/fi/be5j50hpx6qvck4rpbqlv/BOC-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=m0keed80rxynp14pu1sx7r6h1&st=m5qbgtdi&dl=0)
+
+##### CAA (Canadian Automobile Association) Insurance Company | Insurance Officer Intern | Direct Insurance Solutions Service Department | [CAA Verification](https://www.dropbox.com/scl/fi/zan3yjfs5i7ykrpkuor0p/CAA-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=8u0g9fo8nwj8zb79qlom867ri&st=yyvyowao&dl=0) | [CAA Reference](https://www.dropbox.com/scl/fi/l81cexxpbu1g402agk23f/CAA-Reference-Letter-of-YIYAO-YANG.pdf?rlkey=7768bl10tw7zf53fz867kuqd8&st=yxepmgpg&dl=0)
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
