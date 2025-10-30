@@ -1,5 +1,5 @@
 # YIYAO YANG
-**Embark on A Journey Through My Storoes**
+**Embark on A Journey Through My Stories**
 
 #### I. Education 🎒
 ##### Columbia University - Master of Science (MS) in Applied Statitics (Sep 2024 - Dec 2025)
