@@ -47,7 +47,11 @@
 
 ##### China Interocean Transport Inc. | Pricing Analyst Inern | Operations and Pricing Department | Ongoing
 
-##### PwC (PricewaterhouseCoopers) | Financial Business Consultant Intern | Advisory Department
+##### PwC (PricewaterhouseCoopers) | Financial Business Consultant Intern | [Advisory Department](https://www.dropbox.com/scl/fi/q2xzfgfyt1xmtgfnjcq62/PwC-Employment-Verification-Letter-of-YIIYAO-YANG.pdf?rlkey=mm56my7ycp9mcgp972o2q25ef&st=3axuokvv&dl=0)
+
+##### Medline Industries, LP | Supply Chain Analyst Intern | Inventory Management Department | [MEDLINE Verfication](https://www.dropbox.com/scl/fi/z8npnpmq2yhjzeub2ub2z/MEDLINE-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=nd4kmyqsy82kyfsvelnhqif70&st=vxhttx1s&dl=0)
+
+##### NXP Semiconductors | Quality Assurance Engieer Intern | 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
