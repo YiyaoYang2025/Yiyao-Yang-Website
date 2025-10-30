@@ -33,7 +33,7 @@
 
 #### V. Teaching Experience
 
-##### Columbia University - Teaching Assistant | Core Methods in Educational Data Mining (Sep 2025 - Dec 2025)
+##### Columbia University - Teaching Assistant | Core Methods in Educational Data Mining (Sep 2025 - Dec 2025) | [TA Verification (2025 Fall)](https://www.dropbox.com/scl/fi/i947y1wwfnslr1lvtlxrc/TC-Employment-Verification-Letter-of-YIYAO-YANG-HUDK-4050.pdf?rlkey=bratyq0ok8605gbyijbdyd0s1&st=460dh6cb&dl=0)
 
 ##### Columbia University - Course Assistant | Probability and Statistical Inference (Jul 2025 - Aug 2025)
 
