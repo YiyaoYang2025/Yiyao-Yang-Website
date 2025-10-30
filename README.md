@@ -81,6 +81,8 @@
 
 ##### SAS Certified Specialist Certification: Base Programming Using SAS 9.4, SAS | [SAS Certification](https://www.dropbox.com/scl/fi/aqy8wtjnbhu3prfevnnhh/SAS-Certified-Specialist-Base-Programming-Using-SAS-9.4-Certificate-of-YIYAO-YANG.pdf?rlkey=j7m2bb5b4u67ytb9h86eh52bv&st=zv9olkfz&dl=0) | [SAS Verification](https://cp.certmetrics.com/SAS/en/public/verify/credential/b8d02b273eb44f52a86bdf65eca316b7) | [SAS Certified Badge](https://www.credly.com/badges/751e8daa-554a-4bd8-ae5e-34df83717d7a/linked_in_profile)
 
+##### Six Sigma Black Belt (CSSBB) Certification, The Council for Six Sigma (CSSC) | [CSSBB Certification](https://www.dropbox.com/scl/fi/i84nhic3i0lr4g9x87wit/Six-Sigma-Black-Belt-CSSBB-Certification-of-YIYAO-YANG.pdf?rlkey=46gxsfosa8chvs72ihwmwlpvk&st=rseco2zk&dl=0)
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
