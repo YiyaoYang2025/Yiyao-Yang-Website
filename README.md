@@ -100,7 +100,3 @@
 ##### Interests: Research, Presentation, Photography, Animal Charities
 
 ---
-<div align="center">
-
-  [![GitHub license]((https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue))]
-</div>
