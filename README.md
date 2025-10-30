@@ -79,10 +79,7 @@
 
 #### VIII. Certification
 
-##### SAS Certified Specialist Certification: Base Programming Using SAS 9.4, SAS | [SAS Certification](ttps://www.dropbox.com/scl/fi/aqy8wtjnbhu3prfevnnhh/SAS-Certified-Specialist-Base-Programming-Using-SAS-9.4-Certificate-of-YIYAO-YANG.pdf?rlkey=j7m2bb5b4u67ytb9h86eh52bv&st=zv9olkfz&dl=0) | [SAS Verification](https://cp.certmetrics.com/SAS/en/public/verify/credential/b8d02b273eb44f52a86bdf65eca316b7) | [SAS Certified Badge](https://www.credly.com/badges/751e8daa-554a-4bd8-ae5e-34df83717d7a/linked_in_profile)
-###### Skills: SAS, SAS Studio, SAS Data Integration Studio, Data Science, Data Integration, Data Analytics
-###### Certification Verification Number: b8d02b273eb44f52a86bdf65eca316b7
-
+##### SAS Certified Specialist Certification: Base Programming Using SAS 9.4, SAS | [SAS Certification](https://www.dropbox.com/scl/fi/aqy8wtjnbhu3prfevnnhh/SAS-Certified-Specialist-Base-Programming-Using-SAS-9.4-Certificate-of-YIYAO-YANG.pdf?rlkey=j7m2bb5b4u67ytb9h86eh52bv&st=zv9olkfz&dl=0) | [SAS Verification](https://cp.certmetrics.com/SAS/en/public/verify/credential/b8d02b273eb44f52a86bdf65eca316b7) | [SAS Certified Badge](https://www.credly.com/badges/751e8daa-554a-4bd8-ae5e-34df83717d7a/linked_in_profile)
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
