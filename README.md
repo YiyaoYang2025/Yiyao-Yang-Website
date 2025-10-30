@@ -96,7 +96,7 @@
 
 #### XI. Skills, Language & Interest
 ##### Techinical Skills: R, Python, SAS, SQL, SPSS, JMP, Tableau, STATA
-##### Professional Skills: Research, Public Presentation, Data Analytics, Business Analytics, Leadership, Strategic Collaboration, Critical Thinking, Communication
+##### Professional Skills: Research, Public Presentation, Data Analytics, Business Analytics, Leadership, Strategic Collaboration, Critical Thinking, Interpersonal Skill, Communication
 ##### Language: English, Chinese
 ##### Interests: Research, Presentation, Photography, Animal Charities
 
