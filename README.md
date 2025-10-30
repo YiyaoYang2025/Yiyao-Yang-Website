@@ -57,6 +57,24 @@
 
 ##### Canadian Automobile Association | Insurance Officer Intern | Direct Insurance Solutions Service Department | [CAA Verification](https://www.dropbox.com/scl/fi/zan3yjfs5i7ykrpkuor0p/CAA-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=8u0g9fo8nwj8zb79qlom867ri&st=yyvyowao&dl=0) | [CAA Reference](https://www.dropbox.com/scl/fi/l81cexxpbu1g402agk23f/CAA-Reference-Letter-of-YIYAO-YANG.pdf?rlkey=7768bl10tw7zf53fz867kuqd8&st=yxepmgpg&dl=0)
 
+#### VIII. Volunteer Experience
+
+##### Journal of Language Teaching Research | Journal Paper Reviewer (Oct 2025 - Present)
+
+##### National Council for Measurement in Education | Proposal Reviewer (Sep 2025 - Oct 2025)
+
+##### Artificial Intelligence in Measurement and Education Conference | Keynote Support (Oct 2025)
+
+##### Canadian Mathematical Society | COMC Mathematics Competition Grader (Oct 2024 - Dec 2024)
+
+##### Canadian Math Kangaroo Contest | Mathematics Contest Event Coordinator (Mar 2024)
+
+##### Toronto International Film Festival | Film Festival Coordinator (Sep 2023)
+
+##### University of Toronto | Mathmatics & Statistics Notetaker (Accessibility Service) (Sep 2021 - Apr 2022)
+
+##### Chinese Undergraduate Student Association (CUA) at the University of Toronto | Sponsorship Coordinator (Sep 2020 - Apr 2022)
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
