@@ -25,7 +25,7 @@
 
 #### IV. Research Assistant
 
-##### Columbia University - Research Assistant | Trustworthy & Responsible AI @ [AEQUITAS Lab](https://aequitas-lab.tc.columbia.edu/team/).(Jun 2025 - Present)
+##### Columbia University - Research Assistant | Trustworthy & Responsible AI @ [AEQUITAS Lab](https://aequitas-lab.tc.columbia.edu/team/) (Jun 2025 - Present)
 
 ##### Columbia University - Research Assistant | Chapter Co-Author of Data Management (May 2025 - Present)
 ###### Responsibility: Collaborated on co-authoring Chapter 4: Ensuring Data Quality Through Comprehensive Documentation of the forthcoming textbook Education Data Management: Principles and Practices (will be published), synthesizing research across technical and theoretical domains, including data quality dimensions, big data assessment frameworks, metadata standards, and practical guidance for implementation, and developing instructional material and real-world examples on data documentations (e.g., ReadMe files, data dictionaries, directory structures, etc.) to support hands-on learnings and graduate-level pedagogy.
