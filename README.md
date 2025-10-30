@@ -1,11 +1,11 @@
 # YIYAO YANG
 **Embark on A Journey Through My Storoes.**
 
-#### I. Education
+#### I. Education 🎒
 ##### Columbia University - Master of Science (MS) in Applied Statitics (Sep 2024 - Dec 2025)
 ##### University of Toronto - Honours Bachelor of Science (HBSc) in Mathematics Major, Statistics Minor, Economics Minor (Sep 2020 - Jun 2024)
 
-#### II. Journal Paper
+#### II. Journal Paper ✏️
 
 ##### Yang, Y. (2025). Proposal under review for Psychometrika, Applications and Case Studies (ACS), Special Section on Leveraging AI to Empower Development and Application of Diagnostic Statistical Models.
 
@@ -15,7 +15,7 @@
 
 ##### Yang, Y., & Gulbahar, Y. (2025). Spatiotemporal modeling of water quality trends in a coastal wildlife refuge: A statistical approach to ecological risk and resource management. Manuscript under second-round review at Modeling Earth Systems and Environment. Preprint available at Research Square: https://doi.org/10.21203/rs.3.rs-6721691/v4.
 
-#### III. Conference Paper
+#### III. Conference Paper 🎤
 
 ##### Yang, Y., & Gulbahar, Y. (2025, October). Automatic grading of student work using simulated rubric-based data and GenAI models. Paper presented at Artificial Intelligence in Measurement and Education (AIME) Conference, National Council on Measurement in Education (NCME), Pittsburgh, PA. Conference Paper available at ACL Anthology: https://aclanthology.org/2025.aimecon-wip.5/. [[2025 AIME-Con Verification]](https://www.dropbox.com/scl/fi/hnpiy0zrhubfk74kwp5u6/NCME-AIME-Conference-Proof-of-Presenter-Status-YIYAO-YANG.pdf?rlkey=6zprf7l39iruph0k8o8xq0tud&e=1&st=oqjwuef3&dl=0). [[My Slides]](https://doi.org/10.5281/zenodo.17450180).
 
@@ -23,7 +23,7 @@
 
 ##### Yang, Y., & Gulbahar, Y. (2026, April). Decoding AI Tutor Effects for Educational Measurement: Temporal, Multi-Outcome, and Behavioral-Cognitive Analysis. Proposal under review at the annual meeting of the National Council on Measurement in Education (NCME), Los Angeles, CA. 
 
-#### IV. Research Assistant & Student Researcher
+#### IV. Research Assistant & Student Researcher 📑
 
 ##### Columbia University - Research Assistant | Trustworthy & Responsible AI @ [AEQUITAS Lab](https://aequitas-lab.tc.columbia.edu/team/) (Jun 2025 - Present)
 
@@ -31,7 +31,7 @@
 
 ##### University of Toronto - Student Researcher | Combinatorics, Topology, & Graph Theory (Sep 2023 - Apr 2024)
 
-#### V. Teaching Experience
+#### V. Teaching Experience 👩‍🏫
 
 ##### Columbia University - Teaching Assistant | Core Methods in Educational Data Mining (Sep 2025 - Dec 2025) | [TA Verification (2025 Fall)](https://www.dropbox.com/scl/fi/i947y1wwfnslr1lvtlxrc/TC-Employment-Verification-Letter-of-YIYAO-YANG-HUDK-4050.pdf?rlkey=bratyq0ok8605gbyijbdyd0s1&st=460dh6cb&dl=0)
 
@@ -43,7 +43,7 @@
 
 ##### Columbia University - Instructional Assistant | Leadership Academy Program (Jun 2025) | [IA Verfiation (2025 Summer)](https://www.dropbox.com/scl/fi/54cpvt0oohxji35pu63l1/TC-Instructional-Assistant-Emloyment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=g58eoxjul6i01rqi9ra2lhffu&st=sqonoxgb&dl=0)
 
-#### VI. Internship Experience
+#### VI. Internship Experience 💼
 
 ##### China Interocean Transport Inc. | Pricing Analyst Inern | Operations and Pricing Department | Ongoing
 
@@ -57,7 +57,7 @@
 
 ##### Canadian Automobile Association | Insurance Officer Intern | Direct Insurance Solutions Service Department | [CAA Verification](https://www.dropbox.com/scl/fi/zan3yjfs5i7ykrpkuor0p/CAA-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=8u0g9fo8nwj8zb79qlom867ri&st=yyvyowao&dl=0) | [CAA Reference](https://www.dropbox.com/scl/fi/l81cexxpbu1g402agk23f/CAA-Reference-Letter-of-YIYAO-YANG.pdf?rlkey=7768bl10tw7zf53fz867kuqd8&st=yxepmgpg&dl=0)
 
-#### VII. Volunteer Experience
+#### VII. Academic Service & Volunteer Experience 🍃
 
 ##### [Volunteer Experiences Verification](https://www.dropbox.com/scl/fo/zd8nwpm0lqvcdoyvsx5mx/ANemXgKmKMZzZy1pWVW0Etg?rlkey=uhq4qm7is7s6stw0nq5fffuob&st=p36ilp8u&dl=0)
 
@@ -77,7 +77,7 @@
 
 ##### Chinese Undergraduate Student Association (CUA) at the University of Toronto | Sponsorship Coordinator (Sep 2020 - Apr 2022)
 
-#### VIII. Certification
+#### VIII. Certification 🎖️
 
 ##### SAS Certified Specialist Certification: Base Programming Using SAS 9.4, SAS | [SAS Certification](https://www.dropbox.com/scl/fi/aqy8wtjnbhu3prfevnnhh/SAS-Certified-Specialist-Base-Programming-Using-SAS-9.4-Certificate-of-YIYAO-YANG.pdf?rlkey=j7m2bb5b4u67ytb9h86eh52bv&st=zv9olkfz&dl=0) | [SAS Verification](https://cp.certmetrics.com/SAS/en/public/verify/credential/b8d02b273eb44f52a86bdf65eca316b7) | [SAS Certified Badge](https://www.credly.com/badges/751e8daa-554a-4bd8-ae5e-34df83717d7a/linked_in_profile)
 
