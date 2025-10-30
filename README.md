@@ -23,15 +23,13 @@
 
 ##### Yang, Y., & Gulbahar, Y. (2026, April). Decoding AI Tutor Effects for Educational Measurement: Temporal, Multi-Outcome, and Behavioral-Cognitive Analysis. Proposal under review at the annual meeting of the National Council on Measurement in Education (NCME), Los Angeles, CA. 
 
-#### IV. Research Assistant
+#### IV. Research Assistant & Student Researcher
 
 ##### Columbia University - Research Assistant | Trustworthy & Responsible AI @ [AEQUITAS Lab](https://aequitas-lab.tc.columbia.edu/team/) (Jun 2025 - Present)
 
 ##### Columbia University - Research Assistant | Chapter Co-Author of Data Management (May 2025 - Present)
-###### Responsibility: Collaborated on co-authoring Chapter 4: Ensuring Data Quality Through Comprehensive Documentation of the forthcoming textbook Education Data Management: Principles and Practices (will be published), synthesizing research across technical and theoretical domains, including data quality dimensions, big data assessment frameworks, metadata standards, and practical guidance for implementation, and developing instructional material and real-world examples on data documentations (e.g., ReadMe files, data dictionaries, directory structures, etc.) to support hands-on learnings and graduate-level pedagogy.
 
-##### University of Toronto - Research Assistant | Combinatorics, Topology, & Graph Theory (Sep 2023 - Apr 2024)
-###### Responsibility:  Conducted interdisciplinary research in mathematical combinatorics, using statistics, abstract algebra, computer science, and algorithm design to solve problems in enumeration and graph theory, such as generating integer partitions, exploring the Fibonacci sequence, and analyzing chromatic numbers with Brooks’ Theorem. Led a weekly presentation group of three students, creating and delivering multiple presentations on topics in combinatorics, algebraic topology, and graph theory, and guided collaborative problem-solving on key proofs, such as Lucas’ Theorem and modular patterns in Pascal’s triangle.
+##### University of Toronto - Student Researcher | Combinatorics, Topology, & Graph Theory (Sep 2023 - Apr 2024)
 
 #### V. Teaching Experience
 
