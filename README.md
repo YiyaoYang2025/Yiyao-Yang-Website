@@ -45,7 +45,7 @@
 
 #### V. Internship Experience 💼
 
-##### China Interocean Transport Inc. | Pricing Analyst Inern | Operations and Pricing Department | Ongoing
+##### China Interocean Transport Inc. | Pricing Analyst Inern | Operations and Pricing Department | [Ongoing]
 
 ##### PwC (PricewaterhouseCoopers) | Financial Business Consultant Intern | Advisory Department | [PwC Verification](https://www.dropbox.com/scl/fi/q2xzfgfyt1xmtgfnjcq62/PwC-Employment-Verification-Letter-of-YIIYAO-YANG.pdf?rlkey=mm56my7ycp9mcgp972o2q25ef&st=3axuokvv&dl=0)
 
