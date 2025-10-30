@@ -19,8 +19,6 @@
 
 ##### Yang, Y., & Gulbahar, Y. (2025, October). Automatic grading of student work using simulated rubric-based data and GenAI models. Paper presented at Artificial Intelligence in Measurement and Education (AIME) Conference, National Council on Measurement in Education (NCME), Pittsburgh, PA. Conference Paper available at ACL Anthology: https://aclanthology.org/2025.aimecon-wip.5/. [[2025 AIME-Con Verification]](https://www.dropbox.com/scl/fi/hnpiy0zrhubfk74kwp5u6/NCME-AIME-Conference-Proof-of-Presenter-Status-YIYAO-YANG.pdf?rlkey=6zprf7l39iruph0k8o8xq0tud&e=1&st=oqjwuef3&dl=0). [[My Slides]](https://doi.org/10.5281/zenodo.17450180).
 
-##### Yang, Y. & Chiu, C.-Y . (2026, July). Abstract in preparation for submission to the annual International Meeting of the Psychometric Society (IMPS), Seoul, Republic of Korea.
-
 ##### Yang, Y., & Gulbahar, Y. (2026, April). Multimodal Fusion in Educational Measurement: Bridging Modalities for Advancing Student Engagement Assessment. Proposal under review at the annual meeting of the National Council on Measurement in Education (NCME), Los Angeles, CA. 
 
 ##### Yang, Y., & Gulbahar, Y. (2026, April). Decoding AI Tutor Effects for Educational Measurement: Temporal, Multi-Outcome, and Behavioral-Cognitive Analysis. Proposal under review at the annual meeting of the National Council on Measurement in Education (NCME), Los Angeles, CA. 
@@ -29,6 +27,30 @@
 
 ##### Columbia University - Research Assistant | Trustworthy & Responsible AI (Jun 2025 - Present)
 ###### Responsibility: Devoted to the project of Digital Divides in the Age of Generative AI (Programming Tool: Python & API) at AEQUITAS Lab by replicating key results from recent LLM-in-education studies, reproducing tasks with LLMs, and assessing model–human alignment using metrics such as Cohen’s Kappa, QWK, ACC, and F1. Documented replications into a structured research report, ensuring transparency, reproducibility, and critical reflection on the equity implications of generative AI in education.
+
+##### Columbia University - Research Assistant | Chapter Co-Author of Data Management (May 2025 - Present)
+###### Responsibility: Collaborated on co-authoring Chapter 4: Ensuring Data Quality Through Comprehensive Documentation of the forthcoming textbook Education Data Management: Principles and Practices (will be published), synthesizing research across technical and theoretical domains, including data quality dimensions, big data assessment frameworks, metadata standards, and practical guidance for implementation, and developing instructional material and real-world examples on data documentations (e.g., ReadMe files, data dictionaries, directory structures, etc.) to support hands-on learnings and graduate-level pedagogy.
+
+##### University of Toronto - Research Assistant | Combinatorics, Topology, & Graph Theory (Sep 2023 - Apr 2024)
+###### Responsibility:  Conducted interdisciplinary research in mathematical combinatorics, using statistics, abstract algebra, computer science, and algorithm design to solve problems in enumeration and graph theory, such as generating integer partitions, exploring the Fibonacci sequence, and analyzing chromatic numbers with Brooks’ Theorem. Led a weekly presentation group of three students, creating and delivering multiple presentations on topics in combinatorics, algebraic topology, and graph theory, and guided collaborative problem-solving on key proofs, such as Lucas’ Theorem and modular patterns in Pascal’s triangle.
+
+#### V. Teaching Experience
+
+##### Columbia University - Teaching Assistant | Core Methods in Educational Data Mining (Sep 2025 - Dec 2025)
+###### Responsibility: Instructed Python during weekly lectures, focusing on machine learning and data mining assignments and projects; guided students through tasks involving data processing, prediction, Decision Trees, Random Forests, Support Vector Machines (SVM), Extreme Gradient Boosting (XGBoost), K-Means Clustering, Principal Component Analysis (PCA), t-distributed Stochastic Neighbor Embedding (t-SNE), Bayesian Knowledge Tracing (BKT), Deep Knowledge Tracing (DKT), Natural Language Processing (NLP), Social Network Analysis (SNA), Association Rule Mining (ARM), k-Nearest Neighbors (k-NN), Naive Bayes, behavior detection, etc., helping bridge code implementation with theoretical concepts and enhancing students’ proficiency in Python, evaluating assignments, holding weekly office hours to guide students, and fostering a positive and inclusive learning environment through active academic support.
+
+##### Columbia University - Course Assistant | Probability and Statistical Inference (Jul 2025 - Aug 2025)
+###### Responsibility: Provided targeted academic support on core statistical theory topics, including basics of probability, discrete random variables, binomials vs. hypergeometric probability, normal distribution, standard normal distribution, sampling theory, hypotheses testing, test about a population mean, tests for the difference between two population means, correlation, etc., by facilitating discussions, grading assignments and exams, and offering 2 hours weekly office hours to enhance students’ understanding and application of statistical reasoning.
+
+##### Columbia University - Course Assistant | Basic Concepts in Statistics (Jul 2025 - Aug 2025)
+###### Responsibility: Assisted course by holding 2 hours weekly office hours, grading assignments and facilitating moderated discussions to support student mastery of foundational statistical concepts, including frequency distribution, graphical representation, central tendency and variability, normal distribution, covariance and correlation, regression and prediction, sampling distribution and hypothesis testing, test about a population mean, tests for the difference between two population means, correlations, etc., while offering timely feedback on data visualization and analysis assignments and facilitating communication between students and faculty.
+
+##### Columbia University - Course Assistant | Applied Regression Analysis (Jan 2025 - Jul 2025)
+####### Responsibility: Supported course by holding 2 hours weekly office hours and provided customized tutoring for students on simple regression, multiple regression, non-linear models, categorical predictors, ANOVA, ANCOVA, logistic regression, dummy variable, etc., using SPSS, while collaborating with the professor on instructional materials, grading assignments, replying inquiry emails of students, encourage students, and facilitating learning through Canvas discussions and technical demonstrations.
+
+##### Columbia University - Instructional Assistant | Leadership Academy Program (Jun 2025)
+####### Responsibility: Supported the Leadership Academy Program at Klingenstein Center by facilitating Canvas management, assisting with lecture delivery, conducting educational research on leadership frameworks, and analyzing participant data to enhance curriculum design and program effectiveness.
+
 
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
