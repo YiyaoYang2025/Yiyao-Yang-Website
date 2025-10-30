@@ -34,21 +34,14 @@
 #### V. Teaching Experience
 
 ##### Columbia University - Teaching Assistant | Core Methods in Educational Data Mining (Sep 2025 - Dec 2025)
-###### Responsibility: Instructed Python during weekly lectures, focusing on machine learning and data mining assignments and projects; guided students through tasks involving data processing, prediction, Decision Trees, Random Forests, Support Vector Machines (SVM), Extreme Gradient Boosting (XGBoost), K-Means Clustering, Principal Component Analysis (PCA), t-distributed Stochastic Neighbor Embedding (t-SNE), Bayesian Knowledge Tracing (BKT), Deep Knowledge Tracing (DKT), Natural Language Processing (NLP), Social Network Analysis (SNA), Association Rule Mining (ARM), k-Nearest Neighbors (k-NN), Naive Bayes, behavior detection, etc., helping bridge code implementation with theoretical concepts and enhancing students’ proficiency in Python, evaluating assignments, holding weekly office hours to guide students, and fostering a positive and inclusive learning environment through active academic support.
 
 ##### Columbia University - Course Assistant | Probability and Statistical Inference (Jul 2025 - Aug 2025)
-###### Responsibility: Provided targeted academic support on core statistical theory topics, including basics of probability, discrete random variables, binomials vs. hypergeometric probability, normal distribution, standard normal distribution, sampling theory, hypotheses testing, test about a population mean, tests for the difference between two population means, correlation, etc., by facilitating discussions, grading assignments and exams, and offering 2 hours weekly office hours to enhance students’ understanding and application of statistical reasoning.
 
 ##### Columbia University - Course Assistant | Basic Concepts in Statistics (Jul 2025 - Aug 2025)
-###### Responsibility: Assisted course by holding 2 hours weekly office hours, grading assignments and facilitating moderated discussions to support student mastery of foundational statistical concepts, including frequency distribution, graphical representation, central tendency and variability, normal distribution, covariance and correlation, regression and prediction, sampling distribution and hypothesis testing, test about a population mean, tests for the difference between two population means, correlations, etc., while offering timely feedback on data visualization and analysis assignments and facilitating communication between students and faculty.
 
 ##### Columbia University - Course Assistant | Applied Regression Analysis (Jan 2025 - Jul 2025)
-####### Responsibility: Supported course by holding 2 hours weekly office hours and provided customized tutoring for students on simple regression, multiple regression, non-linear models, categorical predictors, ANOVA, ANCOVA, logistic regression, dummy variable, etc., using SPSS, while collaborating with the professor on instructional materials, grading assignments, replying inquiry emails of students, encourage students, and facilitating learning through Canvas discussions and technical demonstrations.
 
 ##### Columbia University - Instructional Assistant | Leadership Academy Program (Jun 2025)
-####### Responsibility: Supported the Leadership Academy Program at Klingenstein Center by facilitating Canvas management, assisting with lecture delivery, conducting educational research on leadership frameworks, and analyzing participant data to enhance curriculum design and program effectiveness.
-
-
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
