@@ -57,7 +57,7 @@
 
 ##### Canadian Automobile Association | Insurance Officer Intern | Direct Insurance Solutions Service Department | [CAA Verification](https://www.dropbox.com/scl/fi/zan3yjfs5i7ykrpkuor0p/CAA-Employment-Verification-Letter-of-YIYAO-YANG.pdf?rlkey=8u0g9fo8nwj8zb79qlom867ri&st=yyvyowao&dl=0) | [CAA Reference](https://www.dropbox.com/scl/fi/l81cexxpbu1g402agk23f/CAA-Reference-Letter-of-YIYAO-YANG.pdf?rlkey=7768bl10tw7zf53fz867kuqd8&st=yxepmgpg&dl=0)
 
-#### VIII. Volunteer Experience
+#### VII. Volunteer Experience
 
 ##### [Volunteer Experiences Verification](https://www.dropbox.com/scl/fo/zd8nwpm0lqvcdoyvsx5mx/ANemXgKmKMZzZy1pWVW0Etg?rlkey=uhq4qm7is7s6stw0nq5fffuob&st=p36ilp8u&dl=0)
 
@@ -76,6 +76,13 @@
 ##### University of Toronto | Mathmatics & Statistics Notetaker (Accessibility Service) (Sep 2021 - Apr 2022)
 
 ##### Chinese Undergraduate Student Association (CUA) at the University of Toronto | Sponsorship Coordinator (Sep 2020 - Apr 2022)
+
+#### VIII. Certification
+
+##### SAS Certified Specialist Certification: Base Programming Using SAS 9.4, SAS | [SAS Certification](ttps://www.dropbox.com/scl/fi/aqy8wtjnbhu3prfevnnhh/SAS-Certified-Specialist-Base-Programming-Using-SAS-9.4-Certificate-of-YIYAO-YANG.pdf?rlkey=j7m2bb5b4u67ytb9h86eh52bv&st=zv9olkfz&dl=0) | [SAS Verification](https://cp.certmetrics.com/SAS/en/public/verify/credential/b8d02b273eb44f52a86bdf65eca316b7) | [SAS Certified Badge](https://www.credly.com/badges/751e8daa-554a-4bd8-ae5e-34df83717d7a/linked_in_profile)
+###### Skills: SAS, SAS Studio, SAS Data Integration Studio, Data Science, Data Integration, Data Analytics
+###### Certification Verification Number: b8d02b273eb44f52a86bdf65eca316b7
+
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
