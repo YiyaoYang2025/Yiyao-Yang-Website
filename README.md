@@ -93,7 +93,7 @@
 ##### University of Toronto | Public Speaking and Presentation Workshop (Sep 2021 - Dec 2021)
 ##### University of Toronto | Reading and eWriting Workshop (Sep 2021 - Dec 2021)
 
-#### X. Skills, Language & Interest
+#### X. Skills, Language & Interest ⏰
 ##### Techinical Skills: R, Python, SAS, SQL, SPSS, JMP, Tableau, STATA
 ##### Professional Skills: Research, Public Presentation, Data Analytics, Business Analytics, Leadership, Strategic Collaboration, Critical Thinking, Interpersonal Skill, Communication
 ##### Language: English, Chinese
