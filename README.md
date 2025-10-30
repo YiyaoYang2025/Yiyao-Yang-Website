@@ -102,5 +102,5 @@
 ---
 <div align="center">
 
-  [![GitHub license]([https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue))]
+  [![GitHub license]((https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue))]
 </div>
